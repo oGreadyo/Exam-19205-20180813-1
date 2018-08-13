@@ -1,0 +1,55 @@
+#rediv{
+	width: 40%;
+	height: 500px;
+	background:white;
+	left: 30%;
+	border: 20px;
+	position: fixed;
+	z-index: 10;
+	box-shadow: 10px 10px 10px black;
+	display: none;
+}
+#mid{
+	width: 100%;
+	height: 720px;
+	background-color: #E6E6FA;
+	background-image: url(../img/registeimg.jpg);
+}
+.relabel{
+	position: absolute;
+	margin-left: 10%;
+}
+.reinput{
+	margin-top:6%;
+	margin-left: 25%;
+	width: 50%;
+	height: 30px;
+	border-radius: 15px;
+	font-size: 20px;
+	padding-left: 15px;
+	outline: none;
+}
+#registbutton{
+	width: 40%;
+	height: 40px;
+	outline: none;
+	margin-left: 30%;
+	margin-top: 8%;
+	background-color:#3385FF;
+	border: 0;
+}
+#registbutton:hover{
+	cursor: pointer;
+	background-color: #2D78F4;
+}
+#checkdiv{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: 2%;
+}
+#buyer{
+	margin-left: 140px;
+}
+.error{
+	color:red; 
+}

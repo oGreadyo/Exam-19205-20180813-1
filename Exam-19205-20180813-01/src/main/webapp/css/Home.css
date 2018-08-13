@@ -1,0 +1,154 @@
+#container{
+	width: 1200px;
+	margin: 0 auto;
+}
+#topone{
+	height: 50px;
+	background-color:#333333;
+}
+#toptwo{
+	height: 150px;
+}
+#logo{
+	float: left;
+	width: 200px;
+	height: 150px;;
+}
+#search{
+	float: left;
+	width: 1000px;
+	height: 150px;
+}
+#topthree{
+	height: 50px;
+	background-color: #E6E6FA;
+}
+#midimg{
+	width: 1200px;
+	height: 470px;
+	position: relative;
+	overflow: hidden;
+}
+#midimg:hover{
+	cursor: pointer;
+}
+#list{
+	position: absolute;
+	z-index: 1;
+	width: 10000px;
+	height: 470px;
+}
+#list img{
+	width: 1200px;
+	height: 470px;
+}
+#buttons{
+	position: absolute;
+	z-index: 2;
+	width: 200px;
+	height: 20px;
+	left: 500px;
+	bottom: 20px;
+}
+#buttons span{
+	float: left;
+	margin-left: 10px;
+	width: 20px;
+	height: 20px;
+	border: 2px solid #FFF;
+	border-radius: 50%;
+	background-color: #333;
+	cursor: pointer;
+}
+#buttons .on{
+	background: orangered;
+}
+#shoprecom{
+	height: 50px;
+	background-color: #333333;
+	text-align: center;
+	font-size: 30px;
+	line-height: 50px;
+	color: white;
+}
+
+.shopdiv{
+	float: left;
+	margin-left: 64px;
+	margin-top: 20px;
+	width: 220px;
+	height: 380px;
+}
+.shopdiv:hover{
+	cursor: pointer;
+}
+#buttom{
+	height: 50px;
+	background-color: #333333;
+	text-align: center;
+	line-height: 50px;
+	
+	color: white;
+}
+
+.toplabel:hover{
+	cursor: pointer;
+	color: orange;
+}
+
+#logoname{
+	font-size: 50px;
+	margin-left: 20px;
+}
+#seinput{
+	margin-top: 55px;
+	margin-left: 300px;
+	width: 300px;
+	height: 30px;
+	border-width: 5px;
+	border-color: #333333;
+	border-style: solid;
+}
+#searchbt{
+	width: 90px;
+	height:42px ;
+	border-radius: 21px;
+	background-color:#333333;
+	font-size: 20PX;
+	margin-left:20px;
+	border: 0;
+	color: white;
+}
+#searchbt:hover{
+	cursor: pointer;
+	background-color: #111111;
+}
+.toplabel{
+	display: inline-block;
+	float: right;
+	text-align: center;
+	height: 50px;
+	width: 80px;
+	line-height: 50px;
+	margin-left: 50px;
+	color: white;
+}
+.toplabel:hover{
+	cursor: pointer;
+	color: orangered;
+}
+li{
+	display: inline-block;
+	float: left;
+	text-align: center;
+	line-height: 50px;
+	margin-left: 130px;
+	width: 80px;
+	height: 50px;
+	
+}
+li:hover{
+	cursor: pointer;
+	background-color:orangered
+}
+

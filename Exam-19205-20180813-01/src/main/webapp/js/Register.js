@@ -1,0 +1,25 @@
+$(document).ready(function(){
+	$("#rediv").slideDown("slow");
+	$("#Registerform").validate({
+		rules:{
+			userName:"required",
+			tel:"required",
+			password:"required",
+			confirm_password:{
+				required:true,
+				equalTo:"#repasswordinput"
+			},
+			address:"required",
+		},
+		messages:{
+			userName:"用户名不能为空",
+			tel:"昵称不能为空",
+			password:"密码不能为空",
+			confirm_password:{
+				required:"密码不能为空",
+				equalTo:"密码不一致"
+			},
+			address:"地址不能为空"
+		}
+	});
+});

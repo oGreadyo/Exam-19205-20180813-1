@@ -1,0 +1,67 @@
+#mid{
+	width: 100%;
+	height: 720px;
+}
+#Loginbackground{
+	width: 99%;
+	height: 720px;
+	position: absolute;
+	z-index: 1;
+}
+#loginpage{
+	position: absolute;
+	z-index: 2;
+	background-color:cornflowerblue;
+	width: 56%;
+	height: 62%;
+	top:0%;
+	margin-left: 22%;
+	opacity: 0.25;
+}
+#userdiv{
+	width: 56%;
+	height: 20%;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+#passworddiv{
+	width: 56%;
+	height: 20%;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+.loginimg{
+	width: 8%;
+	height: 8%;
+	margin-left: 10%;
+}
+.logininput{
+	margin-left: 5%;
+	width: 320px;
+	height: 60px;
+	border-radius: 30px;
+	font-size: 25px;
+	padding-left: 30px;
+	outline: none;
+}
+#loginbutton{
+	width: 150px;
+	height: 40px;
+	margin-left: 44%;
+	margin-top: 10%;
+	font-size: 20px;
+}
+#loginbutton:hover{
+	cursor: pointer;
+}
+#sign{
+	position: absolute;
+	z-index: 5;
+	margin-left: 65%;
+	margin-top: 4%;
+}
+#sign:hover{
+	cursor: pointer;
+	color:white;
+	text-decoration: underline;
+}
