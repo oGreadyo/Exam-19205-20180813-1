@@ -37,8 +37,11 @@ github链接：https://github.com/oGreadyo/Exam-19205-20180813-1.git
 ![avatar](https://github.com/oGreadyo/Exam-19205-20180813-1/blob/master/pic/6.png)
 
 2、增删改查功能
-   2.1增-添加一个电影
-    点击右上角的添加电影按钮，页面跳转到AddFilm.jsp
+
+  2.1增-添加一个电影
+   
+   点击右上角的添加电影按钮，页面跳转到AddFilm.jsp
+    
 ![avatar](https://github.com/oGreadyo/Exam-19205-20180813-1/blob/master/pic/7.png)
     
    进入AddFilm.jsp
@@ -59,8 +62,10 @@ github链接：https://github.com/oGreadyo/Exam-19205-20180813-1.git
 
 ![avatar](https://github.com/oGreadyo/Exam-19205-20180813-1/blob/master/pic/11.png)
 
-  2.2删-删除一个一部电影
-     点击页面的一个电影，会进入到电影的详细信息界面FilmDetail.jsp页面。
+  2.2删-删除一部电影
+  
+   点击页面的一个电影，会进入到电影的详细信息界面FilmDetail.jsp页面。
+    
 ![avatar](https://github.com/oGreadyo/Exam-19205-20180813-1/blob/master/pic/12.png)
 
    点击删除按钮，会删除该电影，这里删除ID 为1004的电影，删除成功后再主页面就查看不到该电影信息了。
@@ -71,7 +76,7 @@ github链接：https://github.com/oGreadyo/Exam-19205-20180813-1.git
 
   2.3改-修改电影信息
     
-    和删除电影一样，点击进入电影详细信息，对相应的信息进行修改，修改完后点击修改按钮。
+   和删除电影一样，点击进入电影详细信息，对相应的信息进行修改，修改完后点击修改按钮。
 
 ![avatar](https://github.com/oGreadyo/Exam-19205-20180813-1/blob/master/pic/14.png)
 
