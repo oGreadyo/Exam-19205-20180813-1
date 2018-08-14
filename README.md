@@ -1,5 +1,6 @@
 github链接：https://github.com/oGreadyo/Exam-19205-20180813-1.git
-部署项目到tomcat上并运行，index.jsp页面为
+
+部署项目到tomcat上并运行，index.jsp页面为运行后的主页面（这里是系统的登录页面）
 
 
 整个系统主要使用了sevlet+jsp来完成，整个系统的功能已经全部完成，测试无bug。
