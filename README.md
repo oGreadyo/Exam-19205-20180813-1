@@ -7,11 +7,11 @@ github链接：https://github.com/oGreadyo/Exam-19205-20180813-1.git
 1.系统运行初始界面-index.jsp登录要页面
     用户名输入账号密码登入系统。
 
-![avatar](https://github.com/oGreadyo/Exam-19205-20180813-1/blob/master/pic/1.PNG)
+![avatar](https://github.com/oGreadyo/Exam-19205-20180813-1/blob/master/pic/1.png)
 
     1.1错误用户名登录失败测试
 
-![avatar](https://github.com/oGreadyo/Exam-19205-20180813-1/blob/master/pic/2.PNG)
+![avatar](https://github.com/oGreadyo/Exam-19205-20180813-1/blob/master/pic/2.png)
 
    最后登录出错。
 
